@@ -1,3 +1,17 @@
+<h1 align="left">What's up! My name is Andrew.</h1>
+
+###
+
+<h3 align="left">I'm Frontend developer</h3>
+
+###
+
+<div align="left">
+  <img height="200" src="https://otkritkis.com/wp-content/uploads/2022/07/g7wdq.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
