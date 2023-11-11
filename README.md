@@ -36,18 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">I'm Frontend developer</h3>
-
-###
-
-<div align="left">
-  <img height="200" src="https://otkritkis.com/wp-content/uploads/2022/07/g7wdq.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Defould/Defould/output/snake.svg" alt="Snake animation" />
